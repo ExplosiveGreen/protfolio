@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/protfolio/static/css/main.dea01142.css",
-    "main.js": "/protfolio/static/js/main.d0953e7b.js",
+    "main.js": "/protfolio/static/js/main.0247be67.js",
     "static/media/Home.png": "/protfolio/static/media/Home.80a3fc1cdf3d64c12ba1.png",
     "static/media/Restaurant.png": "/protfolio/static/media/Restaurant.88e91efd55cd7e52e39b.png",
     "static/media/People.png": "/protfolio/static/media/People.a04728909de02fb76a85.png",
@@ -15,18 +15,16 @@
     "static/media/Avenir-Roman-12.ttf": "/protfolio/static/media/Avenir-Roman-12.c0f2c1bfb99c316e4497.ttf",
     "static/media/Avenir-Light-07.ttf": "/protfolio/static/media/Avenir-Light-07.d7d158a298aa946d69ad.ttf",
     "static/media/Valencia.ttf": "/protfolio/static/media/Valencia.982aa30178d00befd6f0.ttf",
-    "static/media/dribbble.svg": "/protfolio/static/media/dribbble.e3e98878d673709acaead7a66fe2d7ba.svg",
-    "static/media/insta.svg": "/protfolio/static/media/insta.798d9b4b712c30e5b7d043e52187e830.svg",
     "static/media/mail.svg": "/protfolio/static/media/mail.c20c4fc6f3114356bda10b217ccd0792.svg",
     "static/media/git.svg": "/protfolio/static/media/git.2ffdb1560f6238b4626d4d4509d443f7.svg",
-    "static/media/twitter.svg": "/protfolio/static/media/twitter.3fdcdf776f02a03f2fe78258610f62b9.svg",
+    "static/media/whatsapp.svg": "/protfolio/static/media/whatsapp.27182979bfac1c0ac8675ee6d9d6566b.svg",
     "static/media/linkedin.svg": "/protfolio/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
     "index.html": "/protfolio/index.html",
     "main.dea01142.css.map": "/protfolio/static/css/main.dea01142.css.map",
-    "main.d0953e7b.js.map": "/protfolio/static/js/main.d0953e7b.js.map"
+    "main.0247be67.js.map": "/protfolio/static/js/main.0247be67.js.map"
   },
   "entrypoints": [
     "static/css/main.dea01142.css",
-    "static/js/main.d0953e7b.js"
+    "static/js/main.0247be67.js"
   ]
 }
